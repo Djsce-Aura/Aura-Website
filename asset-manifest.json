@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/static/js/main.dbec91e4.chunk.js",
+    "main.js.map": "/static/js/main.dbec91e4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8fec0d1a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8fec0d1a.js.map",
+    "static/css/2.d1af52dc.chunk.css": "/static/css/2.d1af52dc.chunk.css",
+    "static/js/2.5d55b767.chunk.js": "/static/js/2.5d55b767.chunk.js",
+    "static/js/2.5d55b767.chunk.js.map": "/static/js/2.5d55b767.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ade8d3731e428f7ce1a008adceb6ff95.js": "/precache-manifest.ade8d3731e428f7ce1a008adceb6ff95.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d1af52dc.chunk.css.map": "/static/css/2.d1af52dc.chunk.css.map",
+    "static/js/2.5d55b767.chunk.js.LICENSE.txt": "/static/js/2.5d55b767.chunk.js.LICENSE.txt",
+    "static/media/QR.png": "/static/media/QR.01715715.png",
+    "static/media/aura.png": "/static/media/aura.a7c7545e.png",
+    "static/media/coming.png": "/static/media/coming.ed4fc388.png",
+    "static/media/cotm.jpg": "/static/media/cotm.861caa54.jpg",
+    "static/media/dp.jpg": "/static/media/dp.379cabee.jpg",
+    "static/media/favicon.ico": "/static/media/favicon.269807bc.ico",
+    "static/media/from-indu.jpg": "/static/media/from-indu.c455de89.jpg",
+    "static/media/streetplay.jpg": "/static/media/streetplay.cf52eac1.jpg",
+    "static/media/team1.jpg": "/static/media/team1.69938ca5.jpg",
+    "static/media/team2.jpg": "/static/media/team2.1a507aef.jpg",
+    "static/media/team3.jpg": "/static/media/team3.7fe4d0e0.jpg",
+    "static/media/team4.jpg": "/static/media/team4.d3ebb8f1.jpg",
+    "static/media/team5.jpg": "/static/media/team5.c8e3f820.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fec0d1a.js",
+    "static/css/2.d1af52dc.chunk.css",
+    "static/js/2.5d55b767.chunk.js",
+    "static/js/main.dbec91e4.chunk.js"
+  ]
+}
